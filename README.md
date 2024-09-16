@@ -12,22 +12,18 @@
 </p>
 
 ---
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+<h3 align="center">📚 Areas of Interest</h3>
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+<ul align="center">
+  <li>Machine Learning & AI</li>
+  <li>Computer Vision & Natural Language Processing</li>
+  <li>Large Language Models (LLMs) & Retrieval-Augmented Generation (RAG)</li>
+  <li>LangChain.js & Open Source Contributions</li>
+  <li>Web Development (FastAPI, Flask, Node.js, HTML/CSS/JS)</li>
+</ul>
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
