@@ -14,6 +14,20 @@
 ---
 <br/>
 
+<div align="center">
+  <h2>💼 Director at BITSYS SOLUTIONS</h2>
+  <p>
+    I am currently the Director of <strong>BITSYS SOLUTIONS</strong>, a software development company specializing in building innovative solutions in <br/>
+    Machine Learning, Artificial Intelligence, Web Development, and Software Engineering.
+  </p>
+  <p>
+    At BITSYS SOLUTIONS, we are passionate about creating cutting-edge technology solutions that drive success for our clients.
+  </p>
+  <img src="https://img.icons8.com/fluency/96/000000/briefcase.png" alt="BITSYS Solutions"/>
+</div>
+
+<br/>
+
 <h3 align="center">📚 Areas of Interest</h3>
 
 <ul align="center">
