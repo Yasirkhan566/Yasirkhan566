@@ -52,12 +52,10 @@
 
 ---
 
-<h3 align="center">🎮 Fun GitHub Game</h3>
+<h3 align="center">🎮 Fun GitHub Contribution Snake</h3>
 
 <p align="center">
-  <a href="https://github.com/Yasirkhan566">
-    <img src="https://github.com/Yasirkhan566/github-profile-trophy/blob/main/game.svg" alt="Yasir Khan's GitHub Game"/>
-  </a>
+  <img src="https://github.com/Yasirkhan566/Yasirkhan566/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
