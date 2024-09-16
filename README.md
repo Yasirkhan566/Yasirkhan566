@@ -55,7 +55,7 @@
 <h3 align="center">🎮 Fun GitHub Contribution Snake</h3>
 
 <p align="center">
-  <img src="https://github.com/Yasirkhan566/Yasirkhan566/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Yasirkhan566/Yasirkhan566/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Game" />
 </p>
 
 ---
